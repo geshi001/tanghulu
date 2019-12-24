@@ -1,0 +1,10 @@
+﻿---
+BasedOnStyle: Google
+AccessModifierOffset: -2
+AllowShortCaseLabelsOnASingleLine: 'false'
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: 'false'
+AlwaysBreakTemplateDeclarations: 'Yes'
+
+...
